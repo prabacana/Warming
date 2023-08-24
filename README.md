@@ -3,7 +3,7 @@
 # Binar Academy
 ## _Fullstack Web Developer_
 
-![N|Solid](https://storage.googleapis.com/danacita-website-v3-prd/website_v3/images/Binar_-_Logo_warna.original.png)](https://www.binaracademy.com/)
+[![N|Solid](https://storage.googleapis.com/danacita-website-v3-prd/website_v3/images/Binar_-_Logo_warna.original.png)](https://www.binaracademy.com/)
 
 ## Halo Calon Fullstack Web Developer 👋
 
